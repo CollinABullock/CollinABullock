@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy there, folks! 👋
+
+My name is Collin A. Bullock and I am a full stack web developer!  I've been coding since literally the 90s, but last year I decided to make it a career by attending the web development certification program at University Of Illinois Chicago (in conjunction with Fullstack Academy)
 
 <!--
 **CollinABullock/CollinABullock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
